@@ -1,6 +1,6 @@
 #include <GL/glut.h>
 #include <stdio.h>
-
+*/ini hanya update
 GLfloat xRotated, yRotated, zRotated;
 
 void specialKeys();
